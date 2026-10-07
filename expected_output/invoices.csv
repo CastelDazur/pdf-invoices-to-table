@@ -1,0 +1,7 @@
+file,invoice_no,date,vendor,net,vat,total,needs_review
+inv_001.pdf,INV-2026-0141,2026-09-03,Contoso Supplies Ltd,214.00,42.80,256.80,
+inv_002.pdf,F-77812,2026-09-14,Atelier Fabrikam Création SARL,330.00,66.00,396.00,
+inv_003.pdf,INV-2026-0157,2026-09-18,Contoso Supplies Ltd,135.20,27.04,162.24,
+inv_004.pdf,2026/0932,2026-09-22,Tailspin Logistics GmbH,1240.00,235.60,1475.60,
+inv_005.pdf,F-77840,2026-09-29,Atelier Fabrikam Création SARL,180.00,36.00,225.00,net + VAT = 216.00 but total says 225.00
+inv_006.pdf,,2026-09-30,Tailspin Logistics GmbH,310.00,58.90,368.90,invoice number not found
